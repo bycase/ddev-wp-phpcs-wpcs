@@ -50,4 +50,4 @@ Add-ons were covered in [DDEV Add-ons: Creating, maintaining, testing](https://w
 
 Note that more advanced techniques are discussed in [Advanced Add-On Techniques](https://ddev.com/blog/advanced-add-on-contributor-training/) and [DDEV docs](https://ddev.readthedocs.io/en/stable/users/extend/additional-services/).
 
-**Contributed and maintained by `@CONTRIBUTOR`**
+**Contributed and maintained by [bycase](https://github.com/bycase)***
