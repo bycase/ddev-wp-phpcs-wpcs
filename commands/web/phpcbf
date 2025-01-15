@@ -1,0 +1,9 @@
+#!/bin/bash -i
+
+#ddev-generated
+## Description: Run phpcs inside container
+## Usage: phpcs [flags] [args]
+## Example: "phpcs -i"
+## ExecRaw: true
+
+phpcbf "$@"
