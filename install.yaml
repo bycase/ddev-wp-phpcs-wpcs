@@ -61,7 +61,7 @@ pre_install_actions:
 project_files:
   - docker-compose.wp-phpcs-wpcs.yaml
   - web-build/Dockerfile.ddev-wp-phpcs-wpcs
-  - homeadditions/bashrc.d/path.sh
+  - homeadditions/.bashrc.d/path.sh
   - commands/web/php
   - commands/web/phpcbf
   - commands/web/phpcs
