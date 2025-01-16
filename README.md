@@ -1,4 +1,4 @@
-[![tests](https://github.com/ddev/ddev-wp-phpcs-wpcs/actions/workflows/tests.yml/badge.svg)](https://github.com/ddev/ddev-wp-phpcs-wpcs/actions/workflows/tests.yml) ![project is maintained](https://img.shields.io/maintenance/yes/2025.svg)
+[![tests](https://github.com/bycase/ddev-wp-phpcs-wpcs/actions/workflows/tests.yml/badge.svg)](https://github.com/bycase/ddev-wp-phpcs-wpcs/actions/workflows/tests.yml) ![project is maintained](https://img.shields.io/maintenance/yes/2025.svg)
 
 # DDEV add-on template <!-- omit in toc -->
 
